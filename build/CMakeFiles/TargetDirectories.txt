@@ -1,0 +1,3 @@
+/home/ufuk/opencv-cpp-project/build/CMakeFiles/TeknofestAirDefenseSim.dir
+/home/ufuk/opencv-cpp-project/build/CMakeFiles/edit_cache.dir
+/home/ufuk/opencv-cpp-project/build/CMakeFiles/rebuild_cache.dir
